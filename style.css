@@ -1,0 +1,162 @@
+nav{
+    height: 13vh;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:10px 90px 0 80px;
+    position: fixed;
+    top:0;
+    left:0;
+    right: 0;
+    background-color: whitesmoke;
+    bottom: 0;
+    border: none;
+    overflow: hidden;
+}
+.nav-right{
+    margin-left:40px;
+    border: none;
+    overflow: hidden;
+}
+a{
+    padding-left:20px ;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color:gray;
+    text-align: center;
+}
+a:hover{
+    color:black;
+}
+.nav-left{
+    display:inline;
+    padding-left: 300px;
+}
+.try{
+    padding: 14px 20px;
+    border:none;
+    border-radius: 10px;
+    background-color: orange;
+    color:white;
+    font-size: 16px;
+    font-weight: 800;
+}
+.sign{
+    color: orange;
+    margin-right: 20px;
+}
+.sign:hover{
+    text-decoration: underline;
+}
+.main{
+    height: 90vh;
+    padding: 0 100px;
+    display: flex;
+    margin-top:100px;
+    box-sizing: border-box;
+}
+.mainright{
+    width:36vw;
+}
+.top{
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color:gray;
+    
+}
+.title{
+    font-size: 18px;
+    color: blue;
+    padding: 0;
+    margin: 0;
+
+}
+.title{
+    font-size: 55px;
+}
+.para{
+    font-size: 20px;   
+    color: black;
+    margin-bottom: 40px;
+}
+.demo{
+    padding: 14px 20px;
+    border:none;
+    border-radius: 10px;
+    border: 1px solid orange;
+    color:orange;
+    font-size: 16px;
+    font-weight: 800;
+    margin-left: 8px;
+    background-color: white;
+}
+.mainleft{
+    margin-left: 70px;
+}
+.social{
+    height: 25vh;
+    width: 100vw;
+    background-color: pink;
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.social,img{
+    padding-left: 50px;
+}
+#ptext{
+    margin-top: 160px;
+}
+#phone{
+    width: 40%;
+    margin: 0;
+}
+#build{
+    font-size: 50px;
+    width:60vw;
+}
+.three{
+    margin-top: 380px;
+    padding:0 0 0 150px;
+}
+.box{
+    display: inline-block;
+    width: 22vw;
+    margin-right: 60px;
+}
+.ico{
+    font-size: xx-large;
+    margin-bottom: 30px;
+    width: 60px;
+    color: orange;
+    background-color: pink;
+    height: 60px;
+    border-radius: 20%;
+    text-align: center;
+}
+.big{
+    background-color: rgb(238, 224, 224);
+    height: 200vh;
+}
+#lap{
+    padding: auto;
+    margin: auto;
+}
+.commint{
+    margin-left: 100px;
+}
+.full{
+    display: inline-block;
+    width: 40vw;
+}
+.word{
+    display: inline-block;
+}
+.full,img{
+    display: inline;
+}
